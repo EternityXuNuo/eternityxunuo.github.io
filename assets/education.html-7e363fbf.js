@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-74afbf7f","path":"/download/education.html","title":"乘方像素基岩版化学教育模式适配包","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"更新日志","slug":"更新日志","link":"#更新日志","children":[{"level":3,"title":"常规","slug":"常规","link":"#常规","children":[]}]}],"git":{},"filePathRelative":"download/education.md"}');export{e as data};

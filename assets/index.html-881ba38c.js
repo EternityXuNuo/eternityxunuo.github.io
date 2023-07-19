@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-fffb8e28","path":"/guide/","title":"纹理包介绍","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"基础风格","slug":"基础风格","link":"#基础风格","children":[]},{"level":2,"title":"乘方像素的高清风格","slug":"乘方像素的高清风格","link":"#乘方像素的高清风格","children":[]}],"git":{},"filePathRelative":"guide/README.md"}');export{e as data};
